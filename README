@@ -1,17 +1,43 @@
-README
+# README
 text 
 
-CoDL_full_krona
+## CoDL_full_krona
 what is
 
-Scripts
+## Scripts
 what is this folder 
-explain each file
+**CoDL_kraken_full.sh**
 
-Humann2
+**CoDL_krona_full.sh**
+
+**CoDL_trimgalore_full.sh**
+
+**subsample_seq.sh**
+
+## Humann2
 what is 
-explain each file
+**Humann2_16.sh**
 
-Data_Visualisation
+**Humann2_17.sh**
+
+**Humann2_19.sh**
+
+**Join.sh**
+
+**Renorm.sh**
+
+**Stats.sh**
+
+**Visual.sh**
+
+**pathabundance2.cpm.anno.plc**
+
+## Data_Visual
 what is
-explain ech file
+**codl_shotgunmg_metadata.tsv**
+
+**functional.cpm.tsv**
+
+**metadata.r**
+
+**Heatmap_X-X**
