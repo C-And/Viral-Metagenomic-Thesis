@@ -35,7 +35,7 @@ Script to renormalise the data over all the tables within output from the join s
 Script to carry out a statistical analysis of the data using built in function of humann2
 
 **Visual.sh:**
-Script t0 visualise the data - built in version not used in final thesis. 
+Script to visualise the data - built in version not used in final thesis. 
 
 **pathabundance2.cpm.anno.plc:**
 Data used for the stats and visual scripts. this is the output of the renorm script with metadata added.
