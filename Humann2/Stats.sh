@@ -31,7 +31,7 @@ cd $wd_output
 
 #statisctial analysis. 
 singularity exec /data/SBCS-Informatics/containers/biobakery.simg \
-humann2_associate --input functional.cpm.tsv --last-metadatum STSite --focal-metadatum STSite \
+humann2_associate --input pathabundance2.cpm.anno.plc --last-metadatum mean_depth --focal-metadatum mean_depth \
 --focal-type categorical --output stats.txt
 
 
