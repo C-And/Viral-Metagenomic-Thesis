@@ -1,0 +1,7 @@
+sample_id	station	depth_interval	min_depth	max_depth	mean_depth
+16_S4_R1_001_subsample_1000000.fastq.gz	J	0_10	0	10	5
+16_S4_R2_001_subsample_1000000.fastq.gz	J	0_10	0	10	5
+17_S5_R1_001_subsample_1000000.fastq.gz	J	30_40	30	40	35
+17_S5_R2_001_subsample_1000000.fastq.gz	J	30_40	30	40	35
+19_S6_R1_001_subsample_1000000.fastq.gz	J	60_70	60	70	65
+19_S6_R2_001_subsample_1000000.fastq.gz	J	60_70	60	70	65
