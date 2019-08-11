@@ -31,8 +31,9 @@ cd $wd_output
 
 #bar plot visual using the built in features of Humann2 rather then utalising metadata files that need to be created. 
 singularity exec /data/SBCS-Informatics/containers/biobakery.simg \
-humann2_barplot --input functional.cpm.tsv --feature $$$CHOOSE \
---output /data/scratch/bt18567/
+humann2_barplot --input pathabundance2.cpm.anno.plc --last-metadatum mean_depth --focal-metadatum mean_depth \
+--feature $$$CHOOSE \
+--output /data/scratch/bt18567/Plots
 
 
 
